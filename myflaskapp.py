@@ -11,8 +11,6 @@ import users.a.g4.a40323138
 
 
 
-
-
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
