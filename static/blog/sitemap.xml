@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://g4cdw18-40323138.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-24T01:04:33-00:00</lastmod>
+<lastmod>2016-06-24T01:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://g4cdw18-40323138.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-24T01:04:33-00:00</lastmod>
+<lastmod>2016-06-24T01:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://g4cdw18-40323138.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-24T01:04:33-00:00</lastmod>
+<lastmod>2016-06-24T01:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://g4cdw18-40323138.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-24T01:04:33-00:00</lastmod>
+<lastmod>2016-06-24T01:23:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,7 +60,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://g4cdw18-40323138.rhcloud.com/static/blog/tag/40323199.html</loc>
+<loc>http://g4cdw18-40323138.rhcloud.com/static/blog/tag/40323138.html</loc>
 <lastmod>2016-06-24T00:41:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -74,7 +74,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://g4cdw18-40323138.rhcloud.com/static/blog/tag/40323138.html</loc>
+<loc>http://g4cdw18-40323138.rhcloud.com/static/blog/tag/40323199.html</loc>
 <lastmod>2016-06-24T00:41:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
