@@ -7,6 +7,7 @@ import os
 import init
 
 import users.a.g4.a40323138
+import users.a.g4.ag4
 
 
 
@@ -381,5 +382,7 @@ if __name__ == "__main__":
     app.run()
 
 app.register_blueprint(users.a.g4.a40323138.a40323138)
+app.register_blueprint(users.a.g4.ag4.ag4_1)
+
 
 
