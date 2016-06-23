@@ -1,28 +1,22 @@
 # 2016springcd_aG4 
  
 40323109            個人倉儲https://github.com/40323109/cdw11
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323109-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323109-cdw18-qi-mo-bao-gao.html
 
 40323130            個人倉儲https://github.com/40323130/cdw11
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323130-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323130-cdw18-qi-mo-bao-gao.html
 
 40323138            個人倉儲https://github.com/40323138-1/cdw11
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323138-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323138-cdw18-qi-mo-bao-gao.html
 
 40323135            個人倉儲https://github.com/a40323135/cdw11
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323135-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323135-cdw18-qi-mo-bao-gao.html
 
 40323136            個人倉儲https://github.com/40323136/cdw11 
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323136-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323136-cdw18-qi-mo-bao-gao.html
 
 40323144            個人倉儲https://github.com/40323144/cdw11 
-
-                         網誌:http://g4cdw18-40323138.rhcloud.com/static/blog/40323144-cdw18-qi-mo-bao-gao.html
+                         網誌http://g4cdw18-40323138.rhcloud.com/static/blog/40323144-cdw18-qi-mo-bao-gao.html
 
 組別網誌: http://g4cdw18-40323138.rhcloud.com/static/blog/category/ag4.html
 
